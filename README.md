@@ -3,10 +3,8 @@
 
 - 🔭 Sou Software Developer Java. 
 - 🌱 Sou apaixonado pela Linguagem Java que é a mesma que trabalhado até hoje.
-- 💬 Contate-me no email:  igor.alves367@gmail.com
 
 ##
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Danilo-Jv" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
